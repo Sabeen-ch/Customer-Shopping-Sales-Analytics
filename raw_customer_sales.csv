@@ -1,0 +1,309 @@
+Transaction ID,Customer ID,Customer Name,Age,Gender,City,Product Name,Category,Quantity,Unit Price,Discount (%),Total Amount,Purchase Date,Payment Method,Customer Rating,Order Status,Delivery Days,Membership Type
+TXN00038,CUST0028,Sara Ahmed,39,Male,Gujranwala,Planner 2026,Books & Stationery,3,14880.91,5.0,42410.59,2025-02-11,Credit Card,4.5,Delivered,4.0,Basic
+TXN00171,CUST0032,Asad Khan,26,Male,Rawalpindi,Bluetooth Speaker,Electronics,2,17884.37,10.0,32191.87,2025-08-09,Credit Card,1.2,Cancelled,6.0,Basic
+TXN00257,CUST0071,Nadia Khan,41,Male,Karachi,Honey Jar,Groceries,7,17142.83,30.0,83999.87,2025-07-01,Debit Card,3.1,Delivered,5.0,Basic
+TXN00061,CUST0052,Warda Khan,26,Male,Islamabad,Wireless Earbuds,Electronics,6,13149.68,5.0,74953.18,2025-12-08,Credit Card,4.6,Delivered,2.0,Silver
+TXN00154,CUST0076,Iqra Hussain,52,Female,Karachi,Hair Serum,Beauty,7,8812.63,10.0,55519.57,2025-08-12,Credit Card,1.7,Delivered,4.0,Silver
+TXN00182,CUST0031,Fatima Farooq,22,Male,Peshawar,Green Tea Pack,Groceries,1,5792.49,5.0,5502.87,2025-10-31,Mobile Wallet,1.9,Delivered,9.0,Silver
+TXN00031,CUST0017,Farhan Javed,44,Female,Multan,Cutlery Set,Home & Kitchen,6,22612.2,15.0,115322.22,2025-04-14,Mobile Wallet,4.1,Delivered,11.0,Basic
+TXN00100,CUST0030,Ayesha Hussain,41,Male,Quetta,Smartphone Case,Electronics,2,13485.85,0.0,26971.7,2025-07-05,Credit Card,1.0,Delivered,1.0,Silver
+TXN00142,CUST0049,Ayesha Ahmed,21,Male,Sialkot,Dumbbell Set,Sports & Fitness,4,1790.17,20.0,5728.54,2025-09-19,Credit Card,4.1,Delivered,8.0,Basic
+TXN00127,CUST0089,Hamza Farooq,18,Male,Multan,Denim Jeans,Clothing,3,2691.21,25.0,6055.22,2025-03-14,Mobile Wallet,4.2,Delivered,5.0,Silver
+TXN00071,CUST0001,Sara Hussain,48,Female,Rawalpindi,Smartwatch,Electronics,6,15533.88,10.0,83882.95,2025-07-09,Credit Card,2.0,Cancelled,2.0,Silver
+TXN00255,CUST0002,Zainab Ahmed,42,Female,Gujranwala,Honey Jar,Groceries,1,15001.18,30.0,10500.83,2025-12-20,Cash,1.8,Delivered,3.0,Gold
+TXN00214,CUST0081,Amina Baig,58,Male,,Basmati Rice 5kg,Groceries,7,12709.6,,62277.04,2025-12-21,,7.5,Delivered,,Silver
+TXN00263,CUST0064,Mehak Raza,42,Male,Islamabad,Lipstick Set,Beauty,1,7046.97,10.0,6342.27,2025-12-22,Cash,3.7,Delivered,10.0,Gold
+TXN00075,CUST0051,Zeeshan Hussain,33,Male,Gujranwala,Women's Kurta,Clothing,2,23518.47,20.0,37629.55,2025-01-02,Debit Card,3.1,Delivered,9.0,Basic
+TXN00089,CUST0080,Kashif Sheikh,26,Male,Peshawar,Dry Fruits Mix,Groceries,7,10172.0,15.0,60523.4,2025-07-18,Mobile Wallet,2.6,Delivered,1.0,Platinum
+TXN00162,CUST0017,Farhan Javed,44,Female,Multan,Cricket Bat,Sports & Fitness,6,6870.96,5.0,39164.47,2025-02-13,Mobile Wallet,1.5,Delivered,3.0,Basic
+TXN00160,CUST0015,Nadia Raza,41,Male,Multan,Lipstick Set,Beauty,5,24579.78,5.0,116753.95,2025-08-26,Credit Card,4.7,Delivered,5.0,Basic
+TXN00116,CUST0024,Rabia Raza,25,Male,Faisalabad,Dry Fruits Mix,Groceries,3,10958.52,10.0,29588.0,2025-05-18,Credit Card,4.7,Delivered,11.0,Silver
+TXN00149,CUST0046,Junaid Baig,28,Male,Sialkot,Bed Sheet Set,Home & Kitchen,3,6250.9,15.0,15939.79,2025-03-05,Cash,2.1,Delivered,4.0,Basic
+TXN00004,CUST0086,Waleed Malik,63,Female,Gujranwala,Honey Jar,Groceries,7,18028.68,25.0,94650.57,2025-06-04,Debit Card,4.4,Delivered,2.0,Silver
+TXN00250,CUST0047,Ayesha Hussain,33,Male,Peshawar,Denim Jeans,Clothing,4,10828.23,15.0,36815.98,2025-11-19,Mobile Wallet,3.0,Delivered,6.0,Basic
+TXN00095,CUST0013,Ali Qureshi,47,Male,Karachi,Moisturizer,Beauty,7,24526.28,0.0,171683.96,2025-12-08,Credit Card,4.2,Returned,2.0,Basic
+TXN00284,CUST0028,Sara Ahmed,39,Male,Gujranwala,Non-Stick Pan,Home & Kitchen,3,14141.24,5.0,40302.53,2025-01-22,Cash,2.0,Delivered,4.0,Basic
+TXN00066,CUST0066,Sana Malik,27,Male,Sialkot,Basmati Rice 5kg,Groceries,5,23403.92,10.0,105317.64,2025-01-25,Credit Card,2.5,Delivered,3.0,Basic
+TXN00291,CUST0036,Mehak Iqbal,49,Female,Rawalpindi,Sketch Pens Set,Books & Stationery,6,4091.26,10.0,22092.8,2025-08-31,Credit Card,4.0,Delivered,4.0,Silver
+TXN00297,CUST0050,Omar Farooq,-5,Male,Sialkot,Honey Jar,Groceries,7,366.87,5.0,2439.69,2025-03-13,Credit Card,2.3,Delivered,7.0,Basic
+TXN00085,CUST0003,Tariq Ahmed,57,Male,Rawalpindi,Vacuum Flask,Home & Kitchen,7,10656.73,10.0,67137.4,2025-05-27,Credit Card,2.6,Delivered,4.0,Platinum
+TXN00015,CUST0054,Hina Malik,58,Female,Sialkot,USB-C Cable,Electronics,1,7168.47,5.0,6810.05,2025-08-12,Debit Card,3.4,Delivered,5.0,Gold
+TXN00242,CUST0070,Maria Chaudhry,64,Female,Multan,Women's Kurta,Clothing,3,24310.13,15.0,61990.83,2025-08-02,Credit Card,2.2,Delivered,7.0,Gold
+TXN00099,CUST0036,Mehak Iqbal,49,Female,Rawalpindi,Green Tea Pack,Groceries,3,-18795.87,20.0,45110.09,2025-03-02,Cash,4.6,Returned,6.0,Silver
+TXN00279,CUST0004,Asad Javed,36,Male,Sialkot,Power Bank,Electronics,4,8558.67,0.0,34234.68,2025-03-14,Bank Transfer,2.6,Returned,5.0,Basic
+TXN00257,CUST0071,Nadia Khan,41,Male,Karachi,Honey Jar,Groceries,7,17142.83,30.0,83999.87,2025-07-01,Debit Card,3.1,Delivered,5.0,Basic
+TXN00254,CUST0085,Salman Ahmed,47,Male,Quetta,Smartphone Case,Electronics,6,24683.5,0.0,148101.0,2025-05-03,Debit Card,1.3,Delivered,9.0,Platinum
+TXN00087,CUST0051,Zeeshan Hussain,33,Male,Gujranwala,Resistance Bands,Sports & Fitness,2,16795.87,0.0,33591.74,2025-11-14,Credit Card,1.6,Delivered,4.0,Basic
+TXN00074,CUST0060,Hina Iqbal,47,Male,Quetta,Blender,Home & Kitchen,2,17843.06,20.0,28548.9,2025-07-29,Debit Card,,Delivered,10.0,Basic
+TXN00130,CUST0038,Junaid Raza,31,Female,Lahore,Smartphone Case,Electronics,1,20917.28,0.0,20917.28,2025-09-20,Debit Card,4.7,Delivered,6.0,Gold
+TXN00081,CUST0071,Nadia Khan,41,Male,Karachi,Bluetooth Speaker,Electronics,4,3487.04,0.0,13948.16,2025-10-14,Mobile Wallet,2.6,Delivered,7.0,Basic
+TXN00227,CUST0074,Hina Baig,50,Female,Lahore,Dry Fruits Mix,Groceries,4,10618.26,5.0,40349.39,2025-05-17,Credit Card,1.6,Delivered,6.0,Platinum
+TXN00003,CUST0013,Ali Qureshi,47,Male,Karachi,Cricket Bat,Sports & Fitness,4,9768.0,15.0,33211.2,2025-03-06,Bank Transfer,4.7,Delivered,7.0,Basic
+TXN00139,CUST0062,Noor Javed,61,Female,Sialkot,Sunscreen SPF50,Beauty,5,11038.57,0.0,55192.85,2025-10-07,Mobile Wallet,1.7,Delivered,8.0,Silver
+TXN00282,CUST0086,Waleed Malik,63,Female,Gujranwala,Face Wash,Beauty,3,22200.15,20.0,53280.36,2025-07-12,Credit Card,4.1,Delivered,6.0,Silver
+TXN00256,CUST0052,Warda Khan,26,Male,Islamabad,Sunscreen SPF50,Beauty,6,18900.91,20.0,90724.37,2025-05-22,Debit Card,2.0,Delivered,9.0,Silver
+TXN00174,CUST0034,Zeeshan Farooq,39,Female,Faisalabad,Face Wash,Beauty,5,18676.67,10.0,84045.01,2025-02-07,Debit Card,2.8,Delivered,6.0,Basic
+TXN00273,CUST0088,Waleed Farooq,20,Female,Lahore,Notebook Pack,Books & Stationery,3,606.21,10.0,1636.77,2025-04-26,Credit Card,2.7,Delivered,6.0,Basic
+TXN00283,CUST0069,Maria Khan,38,Female,Multan,Denim Jeans,Clothing,7,20629.77,25.0,108306.29,2025-05-08,Credit Card,4.8,Returned,10.0,Basic
+TXN00207,CUST0003,Tariq Ahmed,57,Male,Rawalpindi,Women's Kurta,Clothing,5,1470.1,5.0,6982.97,2025-06-15,Credit Card,2.8,Delivered,2.0,Platinum
+TXN00175,CUST0017,Farhan Javed,44,Female,Multan,Football,Sports & Fitness,6,8934.22,10.0,48244.79,2025-02-16,Mobile Wallet,4.9,Returned,2.0,Basic
+TXN00058,CUST0007,Amina Hussain,53,Male,Karachi,Cricket Bat,Sports & Fitness,4,15658.26,5.0,59501.39,2025-09-20,Credit Card,3.4,Delivered,1.0,Basic
+TXN00123,CUST0022,Sana Khan,22,Female,Lahore,Sports Shoes,Clothing,5,21990.24,5.0,104453.64,2025-02-12,Debit Card,4.2,Delivered,2.0,Silver
+TXN00221,CUST0009,Hina Chaudhry,60,Male,Faisalabad,Formal Shirt,Clothing,1,7200.06,0.0,7200.06,2025-11-29,Credit Card,2.5,Delivered,5.0,Basic
+TXN00103,CUST0032,Asad Khan,26,Male,Rawalpindi,Blender,Home & Kitchen,3,5713.97,0.0,17141.91,2025-08-25,Cash,1.5,Delivered,9.0,Basic
+TXN00067,CUST0066,Sana Malik,27,Male,Sialkot,Women's Kurta,Clothing,5,8685.1,25.0,32569.12,2025-09-22,Bank Transfer,1.4,Returned,3.0,Basic
+TXN00195,CUST0030,Ayesha Hussain,41,Male,Quetta,Dumbbell Set,Sports & Fitness,4,4005.98,0.0,16023.92,2025-10-22,Debit Card,3.9,Processing,8.0,Silver
+TXN00180,CUST0046,Junaid Baig,28,Male,Sialkot,Denim Jeans,Clothing,5,22771.98,5.0,108166.9,2025-12-25,Debit Card,2.2,Delivered,7.0,Basic
+TXN00102,CUST0019,Zeeshan Abbasi,19,Male,Islamabad,Notebook Pack,Books & Stationery,1,10043.69,15.0,8537.14,2025-08-02,Debit Card,4.0,Delivered,3.0,Basic
+TXN00019,CUST0066,Sana Malik,27,Male,Sialkot,Blender,Home & Kitchen,6,8066.93,20.0,38721.26,2025-05-20,Cash,1.5,Cancelled,6.0,Basic
+TXN00082,CUST0033,Amina Ahmed,26,Male,Multan,Desk Organizer,Books & Stationery,4,16600.8,10.0,59762.88,2025-01-27,Credit Card,4.8,Delivered,6.0,Platinum
+TXN00278,CUST0078,Ali Butt,20,Male,Karachi,Lipstick Set,Beauty,7,3320.55,25.0,17432.89,2025-05-19,Cash,4.3,Delivered,1.0,Silver
+TXN00236,CUST0047,Ayesha Hussain,33,Male,Peshawar,Spice Set,Groceries,1,9411.3,5.0,8940.73,2025-08-30,Credit Card,1.8,Delivered,5.0,Basic
+TXN00056,CUST0005,Sara Farooq,59,Female,Lahore,Planner 2026,Books & Stationery,3,22283.48,10.0,60165.4,2025-03-28,Debit Card,1.6,Delivered,2.0,Silver
+TXN00165,CUST0079,Iqra Butt,33,Male,Faisalabad,Desk Organizer,Books & Stationery,1,19586.71,25.0,14690.03,2025-02-08,Mobile Wallet,2.8,Delivered,9.0,Basic
+TXN00178,CUST0022,Sana Khan,22,Female,Lahore,Perfume 100ml,Beauty,4,8847.78,10.0,31852.01,2025-01-25,Credit Card,4.2,Delivered,2.0,Silver
+TXN00223,CUST0043,Warda Chaudhry,27,Male,Gujranwala,Basmati Rice 5kg,Groceries,6,19189.49,20.0,92109.55,2025-06-24,Bank Transfer,2.7,Cancelled,10.0,Silver
+TXN00148,CUST0031,Fatima Farooq,22,Male,Peshawar,Sketch Pens Set,Books & Stationery,6,20432.31,5.0,116464.17,2025-06-09,Credit Card,,Delivered,10.0,Silver
+TXN00235,CUST0061,Mehak Abbasi,29,Male,Quetta,Smartwatch,Electronics,7,18788.31,20.0,105214.54,2025-06-27,Credit Card,2.3,Delivered,2.0,Silver
+TXN00194,CUST0054,Hina Malik,58,Female,Sialkot,Sunscreen SPF50,Beauty,4,11238.43,0.0,44953.72,2025-06-14,Cash,4.6,Delivered,9.0,Gold
+TXN00023,CUST0067,Faisal Baig,46,Male,Karachi,Bed Sheet Set,Home & Kitchen,2,4397.9,20.0,7036.64,2025-12-02,Mobile Wallet,3.2,Processing,11.0,Basic
+TXN00091,CUST0061,Mehak Abbasi,29,Male,Quetta,Denim Jeans,Clothing,7,23119.7,20.0,129470.32,2025-12-07,Bank Transfer,4.0,Delivered,11.0,Silver
+TXN00129,CUST0043,Warda Chaudhry,27,Male,Gujranwala,Resistance Bands,Sports & Fitness,1,17733.19,5.0,16846.53,2025-07-10,Mobile Wallet,1.2,Cancelled,10.0,Silver
+TXN00228,CUST0036,Mehak Iqbal,49,Female,Rawalpindi,Green Tea Pack,Groceries,6,6641.03,-10.0,27892.33,2025-01-03,Mobile Wallet,4.9,Delivered,9.0,Silver
+TXN00126,CUST0058,Fatima Javed,57,Male,Karachi,Face Wash,Beauty,3,15582.26,0.0,46746.78,2025-07-31,Credit Card,3.1,Delivered,6.0,Silver
+TXN00151,CUST0031,Fatima Farooq,22,Male,Peshawar,Cricket Bat,Sports & Fitness,5,22277.55,25.0,83540.81,2025-07-03,Cash,2.8,Delivered,9.0,Silver
+TXN00092,CUST0045,Mehak Raza,63,Female,Gujranwala,Table Lamp,Home & Kitchen,4,6233.59,10.0,22440.92,2025-08-19,Debit Card,2.0,Delivered,4.0,Gold
+TXN00296,CUST0012,Asad Abbasi,38,Male,Sialkot,Cutlery Set,Home & Kitchen,6,9075.45,5.0,51730.07,2025-06-05,Bank Transfer,4.0,Delivered,2.0,Basic
+TXN00281,CUST0038,Junaid Raza,31,Female,Lahore,Spice Set,Groceries,5,11581.62,15.0,49221.89,2025-06-28,Debit Card,0.0,Delivered,1.0,Gold
+TXN00146,CUST0090,Waleed Hussain,61,Male,Quetta,Cooking Oil 3L,Groceries,4,22105.79,15.0,75159.69,2025-03-03,Credit Card,1.7,Delivered,8.0,Silver
+TXN00128,CUST0007,Amina Hussain,53,Male,Karachi,Moisturizer,Beauty,7,15965.59,,106171.17,2025-02-18,Debit Card,,Processing,,Basic
+TXN00237,CUST0026,Sana Baig,41,Male,Peshawar,Cooking Oil 3L,Groceries,3,13487.47,15.0,34393.05,2025-01-07,Mobile Wallet,3.4,Delivered,5.0,Platinum
+TXN00240,CUST0004,Asad Javed,36,Male,Sialkot,Sketch Pens Set,Books & Stationery,6,21765.63,0.0,130593.78,2025-02-06,Mobile Wallet,1.9,Delivered,7.0,Basic
+TXN00025,CUST0022,Sana Khan,22,Female,Lahore,Women's Kurta,Clothing,7,1402.83,0.0,9819.81,2025-03-12,Debit Card,3.0,Delivered,4.0,Silver
+TXN00115,CUST0020,Faisal Chaudhry,38,Female,Peshawar,Dry Fruits Mix,Groceries,5,3462.9,5.0,16448.77,2025-03-20,Mobile Wallet,1.4,Delivered,3.0,Gold
+TXN00288,CUST0049,Ayesha Ahmed,21,Male,Sialkot,Green Tea Pack,Groceries,4,2916.78,0.0,11667.12,2025-04-25,Credit Card,2.6,Delivered,10.0,Basic
+TXN00063,CUST0005,Sara Farooq,59,Female,Lahore,Desk Organizer,Books & Stationery,7,9662.6,10.0,60874.38,2025-02-02,Bank Transfer,3.9,Delivered,9.0,Silver
+TXN00268,CUST0044,Faisal Butt,64,Male,Gujranwala,Table Lamp,Home & Kitchen,2,20540.43,10.0,36972.77,2025-03-14,Mobile Wallet,3.7,Cancelled,1.0,Basic
+TXN00079,CUST0055,Maria Ahmed,38,Female,Karachi,Formal Shirt,Clothing,7,8732.26,0.0,61125.82,2025-12-06,Debit Card,4.2,Delivered,4.0,Basic
+TXN00105,CUST0045,Mehak Raza,63,Female,Gujranwala,Football,Sports & Fitness,7,21859.62,0.0,153017.34,2025-08-13,Credit Card,3.6,Delivered,3.0,Gold
+TXN00051,CUST0059,Ayesha Yousaf,25,Female,Multan,Sunscreen SPF50,Beauty,2,1470.14,0.0,2940.28,2025-01-08,Credit Card,1.0,Delivered,11.0,Gold
+TXN00264,CUST0044,Faisal Butt,64,Male,Gujranwala,Men's T-Shirt,Clothing,6,20737.79,10.0,111984.07,2025-12-16,Credit Card,2.4,Cancelled,7.0,Basic
+TXN00119,CUST0047,Ayesha Hussain,33,Male,Peshawar,Planner 2026,Books & Stationery,7,15055.64,15.0,89581.06,2025-12-28,Credit Card,4.8,Returned,1.0,Basic
+TXN00053,CUST0041,Danish Ahmed,46,Male,Gujranwala,Perfume 100ml,Beauty,2,19391.55,20.0,31026.48,2025-04-16,Debit Card,4.7,Delivered,3.0,Basic
+TXN00062,CUST0047,Ayesha Hussain,33,Male,Peshawar,Denim Jeans,Clothing,7,4707.51,0.0,32952.57,2025-12-01,Credit Card,4.7,Delivered,10.0,Basic
+TXN00249,CUST0039,Nadia Malik,32,Male,Multan,Notebook Pack,Books & Stationery,1,21604.93,20.0,17283.94,2025-01-28,Cash,1.1,Cancelled,1.0,Silver
+TXN00210,CUST0016,Kashif Qureshi,48,Female,Rawalpindi,Spice Set,Groceries,3,2777.1,15.0,7081.6,2025-10-31,Debit Card,1.1,Delivered,11.0,Gold
+TXN00029,CUST0084,Farhan Qureshi,41,Male,Sialkot,Resistance Bands,Sports & Fitness,5,4684.41,5.0,22250.95,2025-04-26,Mobile Wallet,1.1,Delivered,3.0,Silver
+TXN00070,CUST0060,Hina Iqbal,47,Male,Quetta,Yoga Mat,Sports & Fitness,7,24564.46,25.0,128963.42,2025-08-03,Credit Card,1.6,Delivered,1.0,Basic
+TXN00037,CUST0052,Warda Khan,26,Male,Islamabad,Hair Serum,Beauty,1,10213.48,20.0,8170.78,2025-08-11,Mobile Wallet,2.0,Delivered,8.0,Silver
+TXN00041,CUST0014,Asad Hussain,54,Female,Peshawar,Bluetooth Speaker,Electronics,2,736.42,10.0,1325.56,2025-12-17,Credit Card,2.4,Processing,7.0,Gold
+TXN00270,CUST0052,Warda Khan,26,Male,Islamabad,Smartphone Case,Electronics,1,6048.48,20.0,4838.78,2025-05-12,Debit Card,1.9,Delivered,2.0,Silver
+TXN00012,CUST0078,Ali Butt,20,Male,Karachi,Wireless Earbuds,Electronics,5,1346.06,20.0,5384.24,2025-06-17,Cash,1.7,Delivered,8.0,Silver
+TXN00247,CUST0034,Zeeshan Farooq,39,Female,Faisalabad,Perfume 100ml,Beauty,4,14636.83,5.0,55619.95,2025-04-24,Credit Card,1.6,Delivered,10.0,Basic
+TXN00274,CUST0028,Sara Ahmed,39,Male,Gujranwala,Cutlery Set,Home & Kitchen,3,24257.32,0.0,72771.96,2025-08-13,Debit Card,2.2,Delivered,4.0,Basic
+TXN00189,CUST0040,Hamza Chaudhry,29,Female,Peshawar,Lipstick Set,Beauty,7,23343.46,0.0,163404.22,2025-05-19,Credit Card,4.3,Delivered,6.0,Gold
+TXN00161,CUST0090,Waleed Hussain,61,Male,Quetta,Planner 2026,Books & Stationery,1,11865.32,0.0,11865.32,2025-03-05,Credit Card,2.9,Delivered,3.0,Silver
+TXN00112,CUST0085,Salman Ahmed,47,Male,Quetta,Yoga Mat,Sports & Fitness,7,2765.83,0.0,19360.81,2025-01-19,Cash,3.5,Cancelled,2.0,Platinum
+TXN00099,CUST0036,Mehak Iqbal,49,Female,Rawalpindi,Green Tea Pack,Groceries,3,18795.87,20.0,45110.09,2025-03-02,Cash,4.6,Returned,6.0,Silver
+TXN00203,CUST0038,Junaid Raza,31,Female,Lahore,Table Lamp,Home & Kitchen,7,18433.41,0.0,129033.87,2025-12-11,Mobile Wallet,2.5,Delivered,10.0,Gold
+TXN00047,CUST0081,Amina Baig,58,Male,Rawalpindi,Blender,Home & Kitchen,4,8020.48,0.0,32081.92,2025-11-07,Cash,2.5,Delivered,2.0,Silver
+TXN00140,CUST0040,Hamza Chaudhry,29,Female,Peshawar,Power Bank,Electronics,4,13132.88,10.0,47278.37,2025-12-07,Debit Card,5.0,Delivered,5.0,Gold
+TXN00260,CUST0053,Zeeshan Ahmed,31,Female,Multan,Perfume 100ml,Beauty,3,17522.66,25.0,39425.99,2025-01-22,Credit Card,3.7,Delivered,7.0,Silver
+TXN00133,CUST0034,Zeeshan Farooq,39,Female,Faisalabad,Bed Sheet Set,Home & Kitchen,4,22503.36,-10.0,63009.41,2025-06-09,Debit Card,2.9,Delivered,8.0,Basic
+TXN00008,CUST0022,Sana Khan,22,Female,Lahore,Sports Shoes,Clothing,6,5195.64,25.0,23380.38,2025-04-16,Cash,1.1,Delivered,8.0,Silver
+TXN00109,CUST0056,Zeeshan Chaudhry,24,Female,Rawalpindi,Sports Shoes,Clothing,7,11907.91,10.0,75019.83,2025-11-02,Credit Card,1.2,Delivered,11.0,Platinum
+TXN00185,CUST0059,Ayesha Yousaf,25,Female,Multan,Table Lamp,Home & Kitchen,2,5657.83,0.0,11315.66,2025-08-02,Bank Transfer,2.7,Delivered,1.0,Gold
+TXN00155,CUST0026,Sana Baig,41,Male,Peshawar,Resistance Bands,Sports & Fitness,3,20902.79,15.0,53302.11,2025-09-02,Mobile Wallet,1.7,Delivered,3.0,Platinum
+TXN00295,CUST0022,Sana Khan,22,Female,Lahore,Formal Shirt,Clothing,1,21555.92,0.0,21555.92,2025-05-02,Cash,5.0,Delivered,6.0,Silver
+TXN00016,CUST0089,Hamza Farooq,18,Male,Multan,Spice Set,Groceries,2,14831.16,5.0,28179.2,2025-12-02,Debit Card,2.7,Delivered,1.0,Silver
+TXN00114,CUST0016,Kashif Qureshi,48,Female,Rawalpindi,Moisturizer,Beauty,6,4507.43,30.0,18931.21,2025-04-29,Mobile Wallet,3.0,Delivered,6.0,Gold
+TXN00008,CUST0022,Sana Khan,22,Female,Lahore,Sports Shoes,Clothing,6,5195.64,25.0,23380.38,2025-04-16,Cash,1.1,Delivered,8.0,Silver
+TXN00269,CUST0004,Asad Javed,36,Male,Sialkot,Sports Shoes,Clothing,1,23526.68,25.0,17645.01,2025-01-21,Debit Card,3.6,Delivered,6.0,Basic
+TXN00156,CUST0070,Maria Chaudhry,64,Female,Multan,Resistance Bands,Sports & Fitness,1,17039.4,20.0,13631.52,2025-06-02,Mobile Wallet,2.1,Delivered,3.0,Gold
+TXN00213,CUST0044,Faisal Butt,64,Male,Gujranwala,Dumbbell Set,Sports & Fitness,4,3533.76,0.0,14135.04,2025-09-22,Debit Card,2.1,Delivered,11.0,Basic
+TXN00169,CUST0006,Fatima Hussain,50,Female,Faisalabad,Non-Stick Pan,Home & Kitchen,7,2617.05,5.0,17403.38,2025-08-13,Bank Transfer,2.1,Delivered,10.0,Gold
+TXN00208,CUST0055,Maria Ahmed,38,Female,Karachi,Denim Jeans,Clothing,1,15475.34,5.0,14701.57,2025-04-30,Cash,1.4,Delivered,8.0,Basic
+TXN00090,CUST0038,Junaid Raza,31,Female,Lahore,Blender,Home & Kitchen,7,21393.41,5.0,142266.18,2025-11-08,Debit Card,3.0,Delivered,6.0,Gold
+TXN00217,CUST0059,Ayesha Yousaf,25,Female,Multan,Sketch Pens Set,Books & Stationery,4,9224.08,20.0,29517.06,2025-01-21,Mobile Wallet,1.9,Delivered,7.0,Gold
+TXN00098,CUST0076,Iqra Hussain,52,Female,Karachi,Blender,Home & Kitchen,3,1570.05,15.0,4003.63,2025-10-05,Mobile Wallet,4.1,Cancelled,4.0,Silver
+TXN00285,CUST0025,Iqra Sheikh,63,Male,Lahore,Cricket Bat,Sports & Fitness,5,13168.1,5.0,62548.47,2025-03-29,Mobile Wallet,1.8,Delivered,6.0,Platinum
+TXN00009,CUST0037,Nadia Iqbal,55,Male,Islamabad,Moisturizer,Beauty,6,6192.25,20.0,29722.8,2025-03-31,Mobile Wallet,4.2,Delivered,1.0,Silver
+TXN00028,CUST0013,Ali Qureshi,47,Male,Karachi,Dumbbell Set,Sports & Fitness,5,21301.78,5.0,101183.45,2025-08-01,Cash,3.1,Delivered,6.0,Basic
+TXN00272,CUST0082,Warda Abbasi,40,Female,Peshawar,Novel - Fiction,Books & Stationery,5,15617.62,10.0,70279.29,2025-07-07,Mobile Wallet,1.1,Delivered,8.0,Silver
+TXN00059,CUST0047,Ayesha Hussain,33,Male,Peshawar,Notebook Pack,Books & Stationery,1,15014.13,0.0,15014.13,2025-11-05,Debit Card,2.0,Delivered,10.0,Basic
+TXN00200,CUST0081,Amina Baig,58,Male,Rawalpindi,Desk Organizer,Books & Stationery,7,22675.78,30.0,111111.32,2025-03-11,Mobile Wallet,1.3,Delivered,7.0,Silver
+TXN00172,CUST0055,Maria Ahmed,38,Female,Karachi,USB-C Cable,Electronics,3,23645.16,0.0,70935.48,2025-05-11,Mobile Wallet,2.0,Delivered,9.0,Basic
+TXN00231,CUST0014,Asad Hussain,54,Female,Peshawar,Bluetooth Speaker,Electronics,7,22399.8,0.0,156798.6,2025-04-05,Bank Transfer,3.4,Delivered,4.0,Gold
+TXN00032,CUST0049,Ayesha Ahmed,21,Male,Sialkot,Planner 2026,Books & Stationery,4,13961.66,15.0,47469.64,2025-06-01,Credit Card,4.9,Delivered,11.0,Basic
+TXN00002,CUST0066,Sana Malik,27,Male,Sialkot,Dry Fruits Mix,Groceries,7,19134.54,5.0,127244.69,2025-10-17,Credit Card,2.3,Delivered,5.0,Basic
+TXN00164,CUST0034,Zeeshan Farooq,39,Female,Faisalabad,Resistance Bands,Sports & Fitness,6,21255.0,0.0,127530.0,2025-07-10,Credit Card,4.5,Delivered,1.0,Basic
+TXN00014,CUST0069,Maria Khan,38,Female,Multan,Hair Serum,Beauty,5,16336.06,25.0,61260.23,2025-02-27,Credit Card,3.0,Delivered,2.0,Basic
+TXN00010,CUST0085,Salman Ahmed,47,Male,Quetta,Lipstick Set,Beauty,6,1291.74,0.0,7750.44,2025-02-11,Bank Transfer,3.0,Delivered,2.0,Platinum
+TXN00286,CUST0019,Zeeshan Abbasi,19,Male,Islamabad,Planner 2026,Books & Stationery,6,14499.27,20.0,69596.5,2025-04-07,Bank Transfer,4.5,Delivered,4.0,Basic
+TXN00096,CUST0048,Noor Hussain,35,Female,Islamabad,Perfume 100ml,Beauty,1,20863.47,0.0,20863.47,2025-02-26,Debit Card,3.2,Delivered,5.0,Basic
+TXN00035,CUST0056,Zeeshan Chaudhry,24,Female,Rawalpindi,Wireless Earbuds,Electronics,3,1502.85,0.0,-4508.55,2025-12-06,Bank Transfer,3.9,Cancelled,8.0,Platinum
+TXN00097,CUST0031,Fatima Farooq,22,Male,Peshawar,Face Wash,Beauty,7,24985.72,10.0,157410.04,2025-02-08,Mobile Wallet,3.9,Delivered,2.0,Silver
+TXN00299,CUST0081,Amina Baig,58,Male,Rawalpindi,Green Tea Pack,Groceries,6,5394.94,0.0,32369.64,2025-10-08,Credit Card,1.1,Delivered,6.0,Silver
+TXN00287,CUST0043,Warda Chaudhry,27,Male,Gujranwala,Sunscreen SPF50,Beauty,6,24829.54,5.0,141528.38,2025-03-27,Debit Card,4.0,Returned,9.0,Silver
+TXN00222,CUST0056,Zeeshan Chaudhry,24,Female,Rawalpindi,Power Bank,Electronics,1,5292.22,15.0,4498.39,2025-08-07,Debit Card,7.5,Delivered,11.0,Platinum
+TXN00238,CUST0016,Kashif Qureshi,48,Female,Rawalpindi,Football,Sports & Fitness,6,1750.35,5.0,9976.99,2025-12-27,Debit Card,4.9,Delivered,8.0,Gold
+TXN00289,CUST0060,Hina Iqbal,47,Male,Quetta,Table Lamp,Home & Kitchen,6,22410.55,0.0,134463.3,2025-09-27,Debit Card,2.9,Delivered,7.0,Basic
+TXN00046,CUST0005,Sara Farooq,59,Female,Lahore,Cutlery Set,Home & Kitchen,4,1185.32,25.0,3555.96,2025-09-27,Credit Card,1.2,Delivered,2.0,Silver
+TXN00211,CUST0058,Fatima Javed,57,Male,Karachi,Formal Shirt,Clothing,6,15919.17,25.0,71636.26,2025-12-24,Credit Card,1.2,Delivered,11.0,Silver
+TXN00033,CUST0056,Zeeshan Chaudhry,24,Female,Rawalpindi,Desk Organizer,Books & Stationery,3,3359.58,0.0,10078.74,2025-07-04,Mobile Wallet,3.0,Delivered,9.0,Platinum
+TXN00078,CUST0037,Nadia Iqbal,55,Male,Islamabad,Cutlery Set,Home & Kitchen,3,13437.59,0.0,40312.77,2025-11-02,Bank Transfer,4.3,Delivered,11.0,Silver
+TXN00232,CUST0008,Nadia Malik,52,Female,Peshawar,Formal Shirt,Clothing,1,24994.2,10.0,22494.78,2025-04-25,Mobile Wallet,2.9,Delivered,10.0,Platinum
+TXN00134,CUST0027,Ali Hussain,30,Male,Quetta,Cooking Oil 3L,Groceries,3,2516.9,0.0,7550.7,2025-07-26,Mobile Wallet,2.8,Delivered,9.0,Basic
+TXN00145,CUST0065,Junaid Abbasi,63,Male,Karachi,Face Wash,Beauty,6,22398.79,5.0,127673.1,2025-07-25,Credit Card,4.8,Delivered,2.0,Silver
+TXN00157,CUST0008,Nadia Malik,52,Female,Peshawar,Cutlery Set,Home & Kitchen,4,6549.96,15.0,22269.86,2025-08-10,Mobile Wallet,2.5,Delivered,9.0,Platinum
+TXN00064,CUST0050,Omar Farooq,51,Male,Sialkot,Smartwatch,Electronics,7,21679.64,15.0,128993.86,2025-07-03,Bank Transfer,1.8,Delivered,2.0,Basic
+TXN00083,CUST0045,Mehak Raza,63,Female,Gujranwala,Moisturizer,Beauty,6,1294.27,5.0,7377.34,2025-04-16,Mobile Wallet,4.0,Delivered,10.0,Gold
+TXN00233,CUST0049,Ayesha Ahmed,21,Male,Sialkot,Power Bank,Electronics,7,23703.08,5.0,157625.48,2025-04-29,Credit Card,2.8,Delivered,4.0,Basic
+TXN00267,CUST0081,Amina Baig,58,Male,Rawalpindi,USB-C Cable,Electronics,5,23989.67,5.0,113950.93,2025-03-12,Mobile Wallet,,Delivered,1.0,Silver
+TXN00243,CUST0076,Iqra Hussain,52,Female,Karachi,Desk Organizer,Books & Stationery,1,419.98,15.0,356.98,2025-12-26,Debit Card,,Delivered,11.0,Silver
+TXN00042,CUST0087,Kashif Hussain,64,Female,Quetta,Sketch Pens Set,Books & Stationery,4,7328.16,20.0,23450.11,2025-05-21,Mobile Wallet,2.3,Delivered,3.0,Basic
+TXN00173,CUST0002,Zainab Ahmed,42,Female,Gujranwala,Dumbbell Set,Sports & Fitness,2,13422.93,15.0,22818.98,2025-10-18,Cash,1.9,Processing,3.0,Gold
+TXN00110,CUST0084,Farhan Qureshi,41,Male,Sialkot,Women's Kurta,Clothing,5,5588.08,0.0,27940.4,2025-05-31,Credit Card,2.7,Delivered,3.0,Silver
+TXN00177,CUST0089,Hamza Farooq,18,Male,Multan,Power Bank,Electronics,6,14631.93,15.0,74622.84,2025-01-14,Debit Card,,Delivered,7.0,Silver
+TXN00218,CUST0070,Maria Chaudhry,64,Female,Multan,Power Bank,Electronics,4,3361.27,0.0,13445.08,2025-09-04,Mobile Wallet,1.5,Returned,9.0,Gold
+TXN00122,CUST0044,Faisal Butt,64,Male,Gujranwala,Formal Shirt,Clothing,2,19440.23,10.0,34992.41,2025-03-20,Mobile Wallet,4.9,Cancelled,6.0,Basic
+TXN00052,CUST0059,Ayesha Yousaf,25,Female,Multan,Smartwatch,Electronics,5,6268.48,10.0,28208.16,2025-03-25,Cash,4.4,Cancelled,7.0,Gold
+TXN00057,CUST0023,Waleed Malik,60,Male,Multan,Non-Stick Pan,Home & Kitchen,7,398.99,0.0,2792.93,2025-07-21,Cash,3.3,Returned,11.0,Silver
+TXN00244,CUST0015,Nadia Raza,140,Male,Multan,Non-Stick Pan,Home & Kitchen,3,13186.34,5.0,37581.07,2025-04-17,Mobile Wallet,4.6,Delivered,7.0,Basic
+TXN00159,CUST0068,Kashif Ahmed,43,Male,Lahore,Green Tea Pack,Groceries,6,9477.12,0.0,56862.72,2025-03-04,Debit Card,2.6,Cancelled,3.0,Basic
+TXN00086,CUST0051,Zeeshan Hussain,33,Male,Gujranwala,Smartphone Case,Electronics,5,16491.29,15.0,70087.98,2025-04-22,Credit Card,2.3,Delivered,1.0,Basic
+TXN00121,CUST0001,Sara Hussain,48,Female,Rawalpindi,Blender,Home & Kitchen,4,435.19,15.0,1479.65,2025-12-07,Credit Card,4.5,Delivered,4.0,Silver
+TXN00292,CUST0069,Maria Khan,38,Female,Multan,Denim Jeans,Clothing,4,23731.57,5.0,90179.97,2025-01-23,Mobile Wallet,4.9,Delivered,10.0,Basic
+TXN00294,CUST0030,Ayesha Hussain,41,Male,Quetta,Face Wash,Beauty,4,22344.36,0.0,89377.44,2025-05-09,Mobile Wallet,3.6,Delivered,2.0,Silver
+TXN00185,CUST0059,Ayesha Yousaf,25,Female,Multan,Table Lamp,Home & Kitchen,2,5657.83,0.0,11315.66,2025-08-02,Bank Transfer,2.7,Delivered,1.0,Gold
+TXN00277,CUST0042,Fatima Farooq,140,Female,Faisalabad,Face Wash,Beauty,7,690.34,10.0,4349.14,2025-08-22,Debit Card,4.3,Delivered,9.0,Gold
+TXN00209,CUST0063,Hamza Sheikh,61,Female,Rawalpindi,Blender,Home & Kitchen,3,20314.47,5.0,-57896.24,2025-11-05,Cash,3.4,Delivered,6.0,Gold
+TXN00088,CUST0040,Hamza Chaudhry,29,Female,Peshawar,Resistance Bands,Sports & Fitness,2,13689.35,15.0,23271.9,2025-10-07,Credit Card,3.4,Delivered,11.0,Gold
+TXN00166,CUST0023,Waleed Malik,60,Male,Multan,Notebook Pack,Books & Stationery,6,18809.02,5.0,107211.41,2025-06-04,Debit Card,2.0,Delivered,2.0,Silver
+TXN00014,CUST0069,Maria Khan,38,Female,Multan,Hair Serum,Beauty,5,16336.06,25.0,61260.23,2025-02-27,Credit Card,3.0,Delivered,2.0,Basic
+TXN00259,CUST0047,Ayesha Hussain,33,Male,Peshawar,Football,Sports & Fitness,6,1994.94,15.0,10174.19,2025-11-04,Mobile Wallet,4.0,Delivered,7.0,Basic
+TXN00106,CUST0086,Waleed Malik,63,Female,Gujranwala,Vacuum Flask,Home & Kitchen,4,20765.11,15.0,70601.37,2025-06-18,Debit Card,1.2,Delivered,1.0,Silver
+TXN00241,CUST0062,Noor Javed,61,Female,Sialkot,Basmati Rice 5kg,Groceries,2,8673.88,15.0,14745.6,2025-04-23,Mobile Wallet,1.4,Delivered,3.0,Silver
+TXN00183,CUST0050,Omar Farooq,51,Male,Sialkot,Planner 2026,Books & Stationery,4,12630.1,10.0,45468.36,2025-09-20,Debit Card,3.0,Delivered,11.0,Basic
+TXN00050,CUST0037,Nadia Iqbal,55,Male,Islamabad,Sports Shoes,Clothing,4,17176.48,0.0,68705.92,2025-09-28,Cash,4.7,Delivered,4.0,Silver
+TXN00224,CUST0067,Faisal Baig,46,Male,Karachi,Basmati Rice 5kg,Groceries,7,2630.24,30.0,12888.18,2025-06-12,Debit Card,1.4,Delivered,9.0,Basic
+TXN00006,CUST0029,Waleed Chaudhry,56,Male,Multan,Honey Jar,Groceries,7,19597.96,0.0,137185.72,2025-05-23,Credit Card,4.5,Cancelled,11.0,Gold
+TXN00018,CUST0049,Ayesha Ahmed,21,Male,Sialkot,Table Lamp,Home & Kitchen,5,9208.24,10.0,41437.08,2025-10-22,Mobile Wallet,4.5,Delivered,9.0,Basic
+TXN00245,CUST0052,Warda Khan,26,Male,Islamabad,Basmati Rice 5kg,Groceries,2,8997.38,5.0,17095.02,2025-04-10,Debit Card,4.1,Returned,2.0,Silver
+TXN00117,CUST0066,Sana Malik,27,Male,Sialkot,Cutlery Set,Home & Kitchen,4,11706.9,15.0,39803.46,2025-05-08,Credit Card,2.3,Delivered,7.0,Basic
+TXN00239,CUST0059,Ayesha Yousaf,25,Female,Multan,Non-Stick Pan,Home & Kitchen,1,18862.53,10.0,16976.28,2025-01-30,Debit Card,4.5,Delivered,8.0,Gold
+TXN00107,CUST0086,Waleed Malik,63,Female,Gujranwala,Women's Kurta,Clothing,3,19020.38,,45648.91,2025-05-07,Credit Card,,Delivered,,Silver
+TXN00188,CUST0069,Maria Khan,38,Female,Multan,Formal Shirt,Clothing,3,6485.7,5.0,18484.24,2025-08-21,Mobile Wallet,5.0,Delivered,7.0,Basic
+TXN00163,CUST0085,Salman Ahmed,47,Male,Quetta,Denim Jeans,Clothing,6,10160.12,0.0,60960.72,2025-01-31,Bank Transfer,3.6,Delivered,2.0,Platinum
+TXN00135,CUST0088,Waleed Farooq,20,Female,Lahore,Smartphone Case,Electronics,2,5383.75,30.0,7537.25,2025-10-25,Mobile Wallet,3.1,Processing,3.0,Basic
+TXN00246,CUST0025,Iqra Sheikh,63,Male,Lahore,USB-C Cable,Electronics,1,10260.86,0.0,10260.86,2025-04-17,Credit Card,4.9,Delivered,3.0,Platinum
+TXN00191,CUST0060,Hina Iqbal,47,Male,Quetta,Table Lamp,Home & Kitchen,5,10385.58,15.0,44138.71,2025-10-22,Cash,2.3,Delivered,4.0,Basic
+TXN00065,CUST0060,Hina Iqbal,47,Male,Quetta,Football,Sports & Fitness,3,18067.02,20.0,43360.85,2025-08-17,Debit Card,2.3,Delivered,5.0,Basic
+TXN00027,CUST0073,Faisal Iqbal,59,Female,Karachi,Dry Fruits Mix,Groceries,4,8659.88,20.0,27711.62,2025-05-01,Mobile Wallet,4.1,Delivered,6.0,Basic
+TXN00215,CUST0051,Zeeshan Hussain,33,Male,Gujranwala,Denim Jeans,Clothing,6,9930.27,10.0,53623.46,2025-11-28,Credit Card,1.7,Delivered,11.0,Basic
+TXN00170,CUST0087,Kashif Hussain,64,Female,Quetta,Cricket Bat,Sports & Fitness,7,7742.61,15.0,46068.53,2025-03-17,Debit Card,3.4,Cancelled,4.0,Basic
+TXN00181,CUST0045,Mehak Raza,63,Female,Gujranwala,Face Wash,Beauty,5,3636.47,15.0,15455.0,2025-08-13,Cash,3.7,Delivered,8.0,Gold
+TXN00101,CUST0042,Fatima Farooq,43,Female,Faisalabad,Bluetooth Speaker,Electronics,5,20631.24,0.0,103156.2,2025-01-10,Mobile Wallet,4.4,Delivered,2.0,Gold
+TXN00198,CUST0020,Faisal Chaudhry,38,Female,Peshawar,Table Lamp,Home & Kitchen,5,6365.48,0.0,31827.4,2025-11-11,Credit Card,2.8,Delivered,3.0,Gold
+TXN00136,CUST0039,Nadia Malik,32,Male,Multan,Winter Jacket,Clothing,1,4093.97,0.0,4093.97,2025-02-24,Mobile Wallet,3.3,Delivered,3.0,Silver
+TXN00290,CUST0056,Zeeshan Chaudhry,24,Female,Rawalpindi,Green Tea Pack,Groceries,4,14675.38,10.0,52831.37,2025-02-14,Bank Transfer,4.3,Delivered,6.0,Platinum
+TXN00266,CUST0004,Asad Javed,36,Male,Sialkot,Cutlery Set,Home & Kitchen,2,2912.03,5.0,5532.86,2025-01-14,Bank Transfer,2.5,Cancelled,9.0,Basic
+TXN00199,CUST0073,Faisal Iqbal,59,Female,Karachi,Sketch Pens Set,Books & Stationery,7,5273.3,150.0,27684.82,2025-07-13,Mobile Wallet,4.7,Delivered,1.0,Basic
+TXN00118,CUST0041,Danish Ahmed,46,Male,Gujranwala,Smartphone Case,Electronics,2,18160.91,5.0,34505.73,2025-11-11,Bank Transfer,3.3,Delivered,3.0,Basic
+TXN00167,CUST0081,Amina Baig,58,Male,Rawalpindi,Moisturizer,Beauty,3,19736.22,25.0,44406.5,2025-10-18,Debit Card,3.9,Delivered,3.0,Silver
+TXN00226,CUST0018,Iqra Khan,34,Male,Rawalpindi,Bed Sheet Set,Home & Kitchen,2,10000.55,5.0,19001.04,2025-01-18,Mobile Wallet,2.1,Delivered,10.0,Silver
+TXN00137,CUST0069,Maria Khan,38,Female,Multan,Lipstick Set,Beauty,2,20074.42,10.0,36133.96,2025-08-26,Credit Card,4.8,Delivered,10.0,Basic
+TXN00030,CUST0047,Ayesha Hussain,33,Male,Peshawar,Basmati Rice 5kg,Groceries,5,480.67,5.0,2283.18,2025-03-03,Mobile Wallet,3.5,Delivered,8.0,Basic
+TXN00080,CUST0001,Sara Hussain,48,Female,Rawalpindi,Planner 2026,Books & Stationery,2,23117.45,5.0,43923.15,2025-04-15,Mobile Wallet,1.0,Delivered,8.0,Silver
+TXN00205,CUST0027,Ali Hussain,30,Male,Quetta,Cooking Oil 3L,Groceries,1,12040.05,15.0,10234.04,2025-02-21,Mobile Wallet,2.3,Delivered,4.0,Basic
+TXN00141,CUST0039,Nadia Malik,32,Male,Multan,Spice Set,Groceries,1,14946.03,0.0,14946.03,2025-09-19,Mobile Wallet,1.2,Delivered,8.0,Silver
+TXN00158,CUST0026,Sana Baig,-5,Male,Peshawar,Power Bank,Electronics,4,24853.72,0.0,99414.88,2025-03-18,Mobile Wallet,3.1,Delivered,3.0,Platinum
+TXN00132,CUST0088,Waleed Farooq,20,Female,Lahore,Yoga Mat,Sports & Fitness,5,20801.47,30.0,72805.15,2025-08-14,Cash,4.8,Delivered,10.0,Basic
+TXN00040,CUST0010,Kashif Ahmed,50,Male,Rawalpindi,Football,Sports & Fitness,5,15001.76,5.0,71258.36,2025-06-30,Cash,3.0,Delivered,11.0,Silver
+TXN00255,CUST0002,Zainab Ahmed,42,Female,Gujranwala,Honey Jar,Groceries,1,15001.18,30.0,10500.83,2025-12-20,Cash,1.8,Delivered,3.0,Gold
+TXN00206,CUST0072,Salman Farooq,62,Male,Rawalpindi,Notebook Pack,Books & Stationery,4,23838.49,15.0,81050.87,2025-03-11,Debit Card,4.5,Delivered,2.0,Basic
+TXN00216,CUST0007,Amina Hussain,53,Male,Karachi,Honey Jar,Groceries,2,17096.86,0.0,34193.72,2025-07-04,Credit Card,0.0,Delivered,8.0,Basic
+TXN00229,CUST0017,Farhan Javed,44,Female,Multan,Table Lamp,Home & Kitchen,2,20510.22,10.0,36918.4,2025-04-26,Cash,4.7,Delivered,3.0,Basic
+TXN00055,CUST0065,Junaid Abbasi,63,Male,Karachi,Dry Fruits Mix,Groceries,1,1036.92,5.0,985.07,2025-05-20,Bank Transfer,1.7,Delivered,1.0,Silver
+TXN00298,CUST0055,Maria Ahmed,38,Female,Karachi,Men's T-Shirt,Clothing,4,17755.39,10.0,63919.4,2025-12-27,Credit Card,4.4,Delivered,2.0,Basic
+TXN00201,CUST0015,Nadia Raza,41,Male,Multan,Perfume 100ml,Beauty,3,14424.5,0.0,43273.5,2025-08-30,Bank Transfer,1.3,Cancelled,9.0,Basic
+TXN00044,CUST0044,Faisal Butt,64,Male,Gujranwala,Men's T-Shirt,Clothing,4,19861.77,15.0,67530.02,2025-08-20,Mobile Wallet,2.9,Delivered,5.0,Basic
+TXN00262,CUST0051,Zeeshan Hussain,33,Male,Gujranwala,Lipstick Set,Beauty,5,16536.15,15.0,70278.64,2025-03-10,Debit Card,4.2,Delivered,8.0,Basic
+TXN00049,CUST0048,Noor Hussain,35,Female,Islamabad,Blender,Home & Kitchen,4,8527.43,5.0,32404.23,2025-07-20,Credit Card,4.4,Delivered,9.0,Basic
+TXN00036,CUST0059,Ayesha Yousaf,25,Female,Multan,Novel - Fiction,Books & Stationery,6,1509.4,0.0,9056.4,2025-02-07,Cash,4.4,Delivered,7.0,Gold
+TXN00060,CUST0077,Zeeshan Abbasi,57,Male,Rawalpindi,Dry Fruits Mix,Groceries,5,18226.51,10.0,82019.29,2025-04-08,Credit Card,4.9,Delivered,9.0,Silver
+TXN00144,CUST0076,Iqra Hussain,-5,Female,Karachi,Novel - Fiction,Books & Stationery,4,18493.36,10.0,66576.1,2025-07-13,Cash,4.0,Delivered,3.0,Silver
+TXN00054,CUST0072,Salman Farooq,62,Male,Rawalpindi,Yoga Mat,Sports & Fitness,3,20385.04,5.0,58097.36,2025-07-19,Credit Card,3.4,Delivered,9.0,Basic
+TXN00021,CUST0045,Mehak Raza,63,Female,Gujranwala,Sketch Pens Set,Books & Stationery,3,4094.24,10.0,11054.45,2025-09-01,Mobile Wallet,2.5,Processing,2.0,Gold
+TXN00125,CUST0004,Asad Javed,36,Male,Sialkot,Formal Shirt,Clothing,3,21896.06,0.0,65688.18,2025-12-09,Debit Card,2.9,Delivered,6.0,Basic
+TXN00143,CUST0008,Nadia Malik,52,Female,Peshawar,Desk Organizer,Books & Stationery,5,8887.54,15.0,37772.05,2025-10-11,Credit Card,4.8,Delivered,8.0,Platinum
+TXN00111,CUST0008,Nadia Malik,52,Female,Peshawar,Yoga Mat,Sports & Fitness,3,9210.74,0.0,27632.22,2025-07-11,Debit Card,2.1,Delivered,4.0,Platinum
+TXN00293,CUST0040,Hamza Chaudhry,29,Female,Peshawar,Sketch Pens Set,Books & Stationery,1,10014.56,20.0,8011.65,2025-11-06,Credit Card,3.1,Cancelled,8.0,Gold
+TXN00077,CUST0038,Junaid Raza,31,Female,Lahore,Cutlery Set,Home & Kitchen,2,6553.66,0.0,13107.32,2025-05-19,Credit Card,4.7,Delivered,2.0,Gold
+TXN00280,CUST0088,Waleed Farooq,20,Female,Lahore,Moisturizer,Beauty,1,7596.15,25.0,5697.11,2025-06-30,Mobile Wallet,2.6,Processing,1.0,Basic
+TXN00271,CUST0065,Junaid Abbasi,63,Male,Karachi,Denim Jeans,Clothing,4,9391.9,10.0,33810.84,2025-04-17,Mobile Wallet,1.6,Returned,11.0,Silver
+TXN00108,CUST0023,Waleed Malik,60,Male,Multan,Green Tea Pack,Groceries,4,17013.31,0.0,68053.24,2025-05-12,Mobile Wallet,1.8,Delivered,1.0,Silver
+TXN00094,CUST0022,Sana Khan,22,Female,Lahore,Smartwatch,Electronics,6,3157.89,5.0,17999.97,2025-06-14,Credit Card,1.8,Delivered,11.0,Silver
+TXN00013,CUST0071,Nadia Khan,41,Male,Karachi,Cricket Bat,Sports & Fitness,4,19666.8,10.0,70800.48,2025-11-14,Mobile Wallet,1.6,Delivered,7.0,Basic
+TXN00017,CUST0008,Nadia Malik,52,Female,Peshawar,Perfume 100ml,Beauty,4,17639.45,10.0,63502.02,2025-08-02,Bank Transfer,2.3,Delivered,8.0,Platinum
+TXN00048,CUST0027,Ali Hussain,30,Male,Quetta,Sports Shoes,Clothing,3,10034.91,5.0,28599.49,2025-02-25,Mobile Wallet,1.4,Delivered,1.0,Basic
+TXN00187,CUST0066,Sana Malik,27,Male,Sialkot,Cooking Oil 3L,Groceries,6,5997.77,25.0,26989.97,2025-12-10,Mobile Wallet,4.0,Processing,6.0,Basic
+TXN00204,CUST0033,Amina Ahmed,26,Male,Multan,Perfume 100ml,Beauty,7,6669.98,15.0,39686.38,2025-08-23,Cash,1.6,Delivered,11.0,Platinum
+TXN00265,CUST0069,Maria Khan,38,Female,Multan,Novel - Fiction,Books & Stationery,4,9395.34,0.0,37581.36,2025-10-12,Credit Card,1.8,Returned,2.0,Basic
+TXN00120,CUST0024,Rabia Raza,25,Male,Faisalabad,Moisturizer,Beauty,1,1251.99,15.0,1064.19,2025-11-29,Bank Transfer,1.1,Cancelled,7.0,Silver
+TXN00022,CUST0077,Zeeshan Abbasi,57,Male,Rawalpindi,Sketch Pens Set,Books & Stationery,3,17285.33,15.0,44077.59,2025-10-02,Cash,3.6,Delivered,5.0,Silver
+TXN00147,CUST0052,Warda Khan,26,Male,Islamabad,Denim Jeans,Clothing,2,7915.83,0.0,15831.66,2025-09-15,Cash,3.8,Delivered,7.0,Silver
+TXN00179,CUST0046,Junaid Baig,28,Male,Sialkot,Formal Shirt,Clothing,6,8455.97,15.0,43125.45,2025-08-24,Bank Transfer,1.3,Delivered,10.0,Basic
+TXN00084,CUST0004,Asad Javed,36,Male,Sialkot,Sunscreen SPF50,Beauty,3,23704.13,5.0,67556.77,2025-09-25,Debit Card,2.6,Delivered,9.0,Basic
+TXN00131,CUST0061,Mehak Abbasi,29,Male,Quetta,Cutlery Set,Home & Kitchen,1,24228.18,5.0,23016.77,2025-10-16,Mobile Wallet,2.1,Delivered,3.0,Silver
+TXN00230,CUST0066,Sana Malik,27,Male,Sialkot,Novel - Fiction,Books & Stationery,1,15067.04,20.0,12053.63,2025-01-05,Credit Card,3.0,Delivered,1.0,Basic
+TXN00260,CUST0053,Zeeshan Ahmed,31,Female,Multan,Perfume 100ml,Beauty,3,17522.66,25.0,39425.99,2025-01-22,Credit Card,3.7,Delivered,7.0,Silver
+TXN00124,CUST0010,Kashif Ahmed,50,Male,,Resistance Bands,Sports & Fitness,5,10796.99,,51285.7,2025-02-16,,,Cancelled,,Silver
+TXN00034,CUST0011,Warda Raza,25,Female,Sialkot,Dumbbell Set,Sports & Fitness,3,-19903.95,0.0,59711.85,2025-03-22,Mobile Wallet,4.2,Cancelled,7.0,Basic
+TXN00005,CUST0079,Iqra Butt,33,Male,Faisalabad,Face Wash,Beauty,5,603.88,10.0,2717.46,2025-09-21,Debit Card,2.2,Delivered,10.0,Basic
+TXN00020,CUST0022,Sana Khan,22,Female,Lahore,Wireless Earbuds,Electronics,2,8553.01,0.0,17106.02,2025-09-24,Cash,4.0,Cancelled,4.0,Silver
+TXN00220,CUST0036,Mehak Iqbal,49,Female,Rawalpindi,Denim Jeans,Clothing,5,648.88,25.0,2433.3,2025-08-09,Cash,1.2,Delivered,3.0,Silver
+TXN00030,CUST0047,Ayesha Hussain,33,Male,Peshawar,Basmati Rice 5kg,Groceries,5,480.67,5.0,2283.18,2025-03-03,Mobile Wallet,3.5,Delivered,8.0,Basic
+TXN00150,CUST0089,Hamza Farooq,18,Male,Multan,Spice Set,Groceries,3,6129.13,15.0,15629.28,2025-01-22,Debit Card,3.0,Cancelled,11.0,Silver
+TXN00225,CUST0079,Iqra Butt,33,Male,Faisalabad,Desk Organizer,Books & Stationery,6,15179.53,20.0,72861.74,2025-05-07,Credit Card,2.1,Delivered,2.0,Basic
+TXN00248,CUST0030,Ayesha Hussain,41,Male,Quetta,Football,Sports & Fitness,3,14323.32,0.0,42969.96,2025-04-29,Bank Transfer,1.3,Delivered,2.0,Silver
+TXN00275,CUST0073,Faisal Iqbal,59,Female,Karachi,Lipstick Set,Beauty,7,7344.96,15.0,43702.51,2025-12-28,Debit Card,2.0,Delivered,1.0,Basic
+TXN00152,CUST0032,Asad Khan,26,Male,Rawalpindi,Bed Sheet Set,Home & Kitchen,4,10361.85,10.0,37302.66,2025-10-05,Cash,4.3,Delivered,7.0,Basic
+TXN00234,CUST0058,Fatima Javed,57,Male,Karachi,Football,Sports & Fitness,2,17720.23,0.0,35440.46,2025-08-04,Credit Card,3.6,Delivered,1.0,Silver
+TXN00011,CUST0022,Sana Khan,22,Female,Lahore,Sketch Pens Set,Books & Stationery,2,18445.14,0.0,36890.28,2025-01-06,Mobile Wallet,3.8,Delivered,3.0,Silver
+TXN00072,CUST0077,Zeeshan Abbasi,57,Male,Rawalpindi,Hair Serum,Beauty,6,7612.01,5.0,43388.46,2025-11-01,Bank Transfer,4.0,Delivered,5.0,Silver
+TXN00253,CUST0041,Danish Ahmed,46,Male,Gujranwala,Dumbbell Set,Sports & Fitness,5,3604.52,15.0,15319.21,2025-12-19,Credit Card,2.0,Delivered,10.0,Basic
+TXN00093,CUST0069,Maria Khan,38,Female,Multan,Winter Jacket,Clothing,6,21556.08,0.0,129336.48,2025-05-14,Bank Transfer,2.3,Cancelled,1.0,Basic
+TXN00193,CUST0068,Kashif Ahmed,43,Male,Lahore,Moisturizer,Beauty,2,1904.19,0.0,3808.38,2025-12-03,Mobile Wallet,1.1,Delivered,7.0,Basic
+TXN00258,CUST0024,Rabia Raza,25,Male,Faisalabad,Sports Shoes,Clothing,4,1964.15,25.0,5892.45,2025-10-05,Bank Transfer,1.8,Delivered,2.0,Silver
+TXN00300,CUST0028,Sara Ahmed,39,Male,Gujranwala,Notebook Pack,Books & Stationery,1,22087.32,15.0,18774.22,2025-11-26,Debit Card,3.8,Delivered,10.0,Basic
+TXN00196,CUST0008,Nadia Malik,52,Female,Peshawar,Table Lamp,Home & Kitchen,3,12087.65,5.0,34449.8,2025-09-27,Credit Card,1.2,Delivered,3.0,Platinum
+TXN00138,CUST0055,Maria Ahmed,38,Female,Karachi,Denim Jeans,Clothing,4,23658.63,5.0,89902.79,2025-04-29,Credit Card,3.2,Delivered,9.0,Basic
+TXN00261,CUST0025,Iqra Sheikh,63,Male,Lahore,Cricket Bat,Sports & Fitness,2,5299.41,10.0,9538.94,2025-05-03,Cash,3.3,Delivered,6.0,Platinum
+TXN00039,CUST0062,Noor Javed,61,Female,Sialkot,Green Tea Pack,Groceries,6,20243.56,30.0,85022.95,2025-08-21,Cash,2.6,Delivered,4.0,Silver
+TXN00202,CUST0033,Amina Ahmed,26,Male,Multan,Vacuum Flask,Home & Kitchen,4,8011.69,30.0,22432.73,2025-02-17,Credit Card,2.5,Delivered,9.0,Platinum
+TXN00190,CUST0038,Junaid Raza,31,Female,,Cricket Bat,Sports & Fitness,7,22680.84,,134951.0,2025-12-16,,,Delivered,,Gold
+TXN00252,CUST0077,Zeeshan Abbasi,57,Male,Rawalpindi,Green Tea Pack,Groceries,4,11717.03,5.0,44524.71,2025-09-11,Credit Card,2.0,Delivered,4.0,Silver
+TXN00113,CUST0045,Mehak Raza,63,Female,Gujranwala,Notebook Pack,Books & Stationery,6,13293.7,30.0,55833.54,2025-06-11,Credit Card,2.6,Returned,1.0,Gold
+TXN00184,CUST0079,Iqra Butt,33,Male,Faisalabad,Notebook Pack,Books & Stationery,1,13037.48,10.0,11733.73,2025-07-07,Debit Card,3.0,Processing,11.0,Basic
+TXN00153,CUST0041,Danish Ahmed,46,Male,Gujranwala,Notebook Pack,Books & Stationery,6,24872.16,20.0,119386.37,2025-02-13,Credit Card,2.3,Delivered,10.0,Basic
+TXN00192,CUST0055,Maria Ahmed,38,Female,Karachi,Planner 2026,Books & Stationery,4,5928.33,15.0,20156.32,2025-12-25,Credit Card,1.1,Delivered,7.0,Basic
+TXN00045,CUST0030,Ayesha Hussain,41,Male,Quetta,Desk Organizer,Books & Stationery,7,19753.47,0.0,138274.29,2025-03-04,Debit Card,1.4,Processing,7.0,Silver
+TXN00276,CUST0041,Danish Ahmed,46,Male,Gujranwala,Hair Serum,Beauty,5,18744.27,10.0,84349.22,2025-09-04,Cash,,Delivered,7.0,Basic
+TXN00007,CUST0045,Mehak Raza,63,Female,Gujranwala,Power Bank,Electronics,7,16742.41,15.0,99617.34,2025-08-15,Cash,4.6,Delivered,1.0,Gold
+TXN00251,CUST0029,Waleed Chaudhry,56,Male,Multan,Planner 2026,Books & Stationery,1,12097.92,20.0,9678.34,2025-02-10,Credit Card,3.7,Delivered,8.0,Gold
+TXN00076,CUST0016,Kashif Qureshi,48,Female,Rawalpindi,Vacuum Flask,Home & Kitchen,4,3554.34,0.0,14217.36,2025-03-08,Mobile Wallet,2.9,Delivered,11.0,Gold
+TXN00001,CUST0055,Maria Ahmed,38,Female,Karachi,Football,Sports & Fitness,1,3192.46,0.0,3192.46,2025-06-27,Bank Transfer,2.7,Delivered,8.0,Basic
+TXN00069,CUST0012,Asad Abbasi,38,Male,Sialkot,Dumbbell Set,Sports & Fitness,5,12539.01,0.0,62695.05,2025-03-27,Bank Transfer,2.2,Returned,3.0,Basic
+TXN00168,CUST0066,Sana Malik,27,Male,Sialkot,Denim Jeans,Clothing,6,24027.47,150.0,122540.1,2025-10-24,Credit Card,4.9,Delivered,11.0,Basic
+TXN00219,CUST0017,Farhan Javed,44,Female,Multan,Face Wash,Beauty,5,17925.59,30.0,62739.56,2025-06-27,Debit Card,1.7,Delivered,4.0,Basic
+TXN00043,CUST0077,Zeeshan Abbasi,57,Male,Rawalpindi,Novel - Fiction,Books & Stationery,5,16439.95,5.0,78089.76,2025-11-08,Credit Card,2.3,Returned,3.0,Silver
+TXN00073,CUST0007,Amina Hussain,53,Male,Karachi,Cricket Bat,Sports & Fitness,1,22434.22,0.0,22434.22,2025-05-21,Credit Card,4.4,Delivered,3.0,Basic
+TXN00024,CUST0087,Kashif Hussain,64,Female,Quetta,Power Bank,Electronics,4,9996.55,0.0,39986.2,2025-11-01,Debit Card,2.7,Delivered,9.0,Basic
+TXN00186,CUST0022,Sana Khan,22,Female,,Smartphone Case,Electronics,4,4110.79,,12332.37,2025-12-18,,,Delivered,,Silver
+TXN00104,CUST0086,Waleed Malik,63,Female,Gujranwala,Men's T-Shirt,Clothing,6,10143.11,30.0,42601.06,2025-11-07,Credit Card,3.6,Delivered,2.0,Silver
+TXN00212,CUST0039,Nadia Malik,32,Male,Multan,Formal Shirt,Clothing,3,24694.89,0.0,74084.67,2025-01-29,Credit Card,4.4,Delivered,5.0,Silver
+TXN00068,CUST0026,Sana Baig,41,Male,Peshawar,Denim Jeans,Clothing,2,4888.42,10.0,8799.16,2025-01-21,Cash,2.0,Delivered,6.0,Platinum
+TXN00026,CUST0033,Amina Ahmed,26,Male,Multan,Smartphone Case,Electronics,2,21136.63,10.0,38045.93,2025-07-22,Bank Transfer,3.7,Delivered,8.0,Platinum
+TXN00197,CUST0045,Mehak Raza,63,Female,Gujranwala,Smartphone Case,Electronics,4,16207.03,10.0,58345.31,2025-08-18,Bank Transfer,4.2,Delivered,9.0,Gold
+TXN00176,CUST0035,Fatima Yousaf,37,Female,Rawalpindi,Dry Fruits Mix,Groceries,2,5530.77,0.0,11061.54,2025-03-10,Mobile Wallet,1.3,Delivered,2.0,Basic
